@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/saif0666/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/saif0666/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/saif0666/leetcode-solutions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/saif0666/leetcode-solutions/tree/master/0319-bulb-switcher) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/saif0666/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/saif0666/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saif0666/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/saif0666/leetcode-solutions/tree/master/0268-missing-number) |
 ## Two Pointers
