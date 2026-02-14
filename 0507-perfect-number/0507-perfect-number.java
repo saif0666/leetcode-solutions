@@ -1,6 +1,7 @@
+////saif0666 
 class Solution {
     public boolean checkPerfectNumber(int num) {
-        //saif0666
+        
         if(num<=1){
             return false;
         }
