@@ -1,4 +1,4 @@
-////saif0666 
+//saif0666 
 class Solution {
     public boolean checkPerfectNumber(int num) {
         
