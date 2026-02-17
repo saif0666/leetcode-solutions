@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saif0666/leetcode-solutions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/saif0666/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/saif0666/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/saif0666/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/saif0666/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/saif0666/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/saif0666/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/saif0666/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/saif0666/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/saif0666/leetcode-solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/saif0666/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/saif0666/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/saif0666/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/saif0666/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/saif0666/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
