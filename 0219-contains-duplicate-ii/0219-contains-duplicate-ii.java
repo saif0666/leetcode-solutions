@@ -1,3 +1,4 @@
+//saif6660
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
         HashMap<Integer,Integer> map = new HashMap<>();
