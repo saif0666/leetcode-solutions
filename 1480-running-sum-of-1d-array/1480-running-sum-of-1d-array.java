@@ -1,3 +1,4 @@
+//saif0666
 class Solution {
     public int[] runningSum(int[] nums) {
         int k = 1;
