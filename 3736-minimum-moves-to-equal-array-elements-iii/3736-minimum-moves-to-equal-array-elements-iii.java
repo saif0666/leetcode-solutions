@@ -10,7 +10,7 @@ class Solution {
             sum += nums[i];
         }
         max *= nums.length;
-        return max - sum;
+        return (max - sum);
         // int count = 0;
         // for(int i = 0;i<nums.length;i++){
         //     while(nums[i] != max){
