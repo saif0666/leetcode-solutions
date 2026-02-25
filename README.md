@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/saif0666/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saif0666/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/saif0666/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/saif0666/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/saif0666/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/saif0666/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/saif0666/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 <!---LeetCode Topics End-->
