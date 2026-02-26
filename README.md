@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/saif0666/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/saif0666/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/saif0666/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/saif0666/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/saif0666/leetcode-solutions/tree/master/0344-reverse-string) |
+| [2000-reverse-prefix-of-word](https://github.com/saif0666/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/saif0666/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/saif0666/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
