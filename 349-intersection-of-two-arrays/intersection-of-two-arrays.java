@@ -1,3 +1,4 @@
+//saif0666
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
         HashSet<Integer>arr = new HashSet<>();
