@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/saif0666/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/saif0666/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/saif0666/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0908-smallest-range-i](https://github.com/saif0666/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [0989-add-to-array-form-of-integer](https://github.com/saif0666/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/saif0666/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/saif0666/leetcode-solutions/tree/master/1518-water-bottles) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/saif0666/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/saif0666/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saif0666/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0908-smallest-range-i](https://github.com/saif0666/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/saif0666/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/saif0666/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/saif0666/leetcode-solutions/tree/master/1051-height-checker) |
