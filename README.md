@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/saif0666/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [0989-add-to-array-form-of-integer](https://github.com/saif0666/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/saif0666/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/saif0666/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1518-water-bottles](https://github.com/saif0666/leetcode-solutions/tree/master/1518-water-bottles) |
 | [2235-add-two-integers](https://github.com/saif0666/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/saif0666/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/saif0666/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/saif0666/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/saif0666/leetcode-solutions/tree/master/1051-height-checker) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/saif0666/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saif0666/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/saif0666/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/saif0666/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
