@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/saif0666/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/saif0666/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/saif0666/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/saif0666/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/saif0666/leetcode-solutions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/saif0666/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/saif0666/leetcode-solutions/tree/master/0326-power-of-three) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/saif0666/leetcode-solutions/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/saif0666/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [1518-water-bottles](https://github.com/saif0666/leetcode-solutions/tree/master/1518-water-bottles) |
 ## Array
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saif0666/leetcode-solutions/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/saif0666/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
