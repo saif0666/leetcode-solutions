@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/saif0666/leetcode-solutions/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/saif0666/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [1518-water-bottles](https://github.com/saif0666/leetcode-solutions/tree/master/1518-water-bottles) |
+| [2974-minimum-number-game](https://github.com/saif0666/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Array
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saif0666/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/saif0666/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/saif0666/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2974-minimum-number-game](https://github.com/saif0666/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/saif0666/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -109,10 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/saif0666/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/saif0666/leetcode-solutions/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saif0666/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/saif0666/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saif0666/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/saif0666/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
