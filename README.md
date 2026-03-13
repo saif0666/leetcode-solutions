@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/saif0666/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1518-water-bottles](https://github.com/saif0666/leetcode-solutions/tree/master/1518-water-bottles) |
 | [2235-add-two-integers](https://github.com/saif0666/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/saif0666/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/saif0666/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
