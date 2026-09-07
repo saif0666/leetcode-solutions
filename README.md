@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saif0666/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saif0666/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/saif0666/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/saif0666/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/saif0666/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saif0666/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/saif0666/leetcode-solutions/tree/master/0169-majority-element) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/saif0666/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/saif0666/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saif0666/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/saif0666/leetcode-solutions/tree/master/0268-missing-number) |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/saif0666/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/saif0666/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
